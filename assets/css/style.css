@@ -1,0 +1,10 @@
+body {
+    background-image: url("../images/ignasi_pattern_s.png");
+}
+
+.container {
+    /* padding: 150px;  */
+    /* background-color:red;  */
+    /* float: left;  */
+    color:  rgb(0, 156, 130);
+}
