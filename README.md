@@ -17,18 +17,21 @@ You need to first install vscode, create a github account, and download git bash
 
 ## Usage
 
-![Horiseon](assets/images/horiseon.png)
-<!-- Relative Path -->
+![About](assets/images/about.png)
+![Contact](assets/images/contact.png)
+![Portfolio](assets/images/portfolio.png)
+
 
 ## Credits
 
 https://getbootstrap.com/
 https://github.com/Glorvi23/My-Portfolio
+https://glorvi23.github.io/My-Portfolio/
 
 
 ## License
 
-![badmath](https://img.shields.io/github/license/Glorvi23/fsf-ft-11-horiseon-code-refactors)
+![badmath](https://img.shields.io/github/license/Glorvi23/My-Portfolio)
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
