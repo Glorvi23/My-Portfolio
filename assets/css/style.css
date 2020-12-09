@@ -1,10 +1,46 @@
+/* Elements */
 body {
     background-image: url("../images/ignasi_pattern_s.png");
 }
 
+h1, a, p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Classes */
 .container {
-    /* padding: 150px;  */
-    /* background-color:red;  */
-    /* float: left;  */
     color:  rgb(0, 156, 130);
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(107, 107, 107);
+    color: white;
+    text-align: center;
+    border-top: 10px solid rgb(0, 156, 130);
+    padding: 20px 0px 15px;
+ }
+
+ .footer p{
+     font-size: 16px;
+     color:  rgba(128, 158, 154, 0.589);
+ }
+
+ /* ID */
+#margin-bottom{
+    margin-bottom: 100px;
+}
+
+#margin{
+    margin-right: 85px;
+}
+
+#background-color{
+    background-color:  rgb(0, 156, 130);
+}
+
+
+
