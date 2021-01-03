@@ -7,6 +7,10 @@ h1, a, p{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+a{
+    color: white;
+}
+
 /* Classes */
 .container {
     color:  rgb(0, 156, 130);
