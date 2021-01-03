@@ -3,12 +3,9 @@ body {
     background-image: url("../images/ignasi_pattern_s.png");
 }
 
-h1, a, p{
+a, p{
     font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-a{
-    color: white;
+    color: rgb(0, 152, 190);
 }
 
 /* Classes */
