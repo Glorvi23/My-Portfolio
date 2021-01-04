@@ -22,16 +22,16 @@ img{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgb(107, 107, 107);
+    background-color: rgb(51, 97, 109);;
     color: white;
     text-align: center;
-    border-top: 10px solid rgb(0, 156, 130);
-    padding: 20px 0px 15px;
+    border-top: 5px solid rgb(15, 73, 73);
+    padding: 1px 0px 0px;
  }
 
  .footer p{
      font-size: 16px;
-     color:  rgba(128, 158, 154, 0.589);
+     color:  rgba(255, 255, 255, 0.308);
  }
 
  /* ID */
