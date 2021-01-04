@@ -8,6 +8,10 @@ a, p{
     color: rgb(0, 152, 190);
 }
 
+img{
+    width: 500px;
+}
+
 /* Classes */
 .container {
     color:  rgb(0, 156, 130);
